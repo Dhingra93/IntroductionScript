@@ -7,3 +7,6 @@ print("Again")
 
 def tryfun(): 
   print("Trying")
+
+
+print("first time ")
